@@ -64,7 +64,9 @@ WINDOW_ICONS = {
     'thunar': fa.icons['files-o'],
     'urxvt': fa.icons['terminal'],
     'xfce4-terminal': fa.icons['terminal'],
+    'gnome-terminal': fa.icons['terminal'],
     'zenity': fa.icons['window-maximize'],
+    'discord': fa.icons['comments'],
 }
 
 # This icon is used for any application not in the list above
