@@ -67,6 +67,7 @@ WINDOW_ICONS = {
     'gnome-terminal': fa.icons['terminal'],
     'zenity': fa.icons['window-maximize'],
     'discord': fa.icons['comments'],
+    'pavucontrol': fa.icons['volume-up'],
 }
 
 # This icon is used for any application not in the list above
